@@ -9,8 +9,6 @@
 /[Mm]emoryCaptures/
 /[Rr]ecordings/
 
-# Asset meta data should be kept (do NOT ignore .meta)
-
 # IDE: Rider / Visual Studio / VS Code
 .idea/
 .vs/
@@ -30,19 +28,13 @@
 *.VC.db
 
 # Unity generated files
-*.pidb.meta
-*.pdb.meta
-*.mdb.meta
 sysinfo.txt
 *.apk
 *.aab
 *.unitypackage
 *.app
 crashlytics-build.properties
-
-# Auto-generated
 /Assets/AssetStoreTools*
-/Assets/Plugins/Editor/JetBrains*
 ExportedObj/
 .consulo/
 *.stackdump
